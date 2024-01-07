@@ -1,0 +1,6 @@
+hub hub
+shortLabel COLO320
+longLabel COLO320
+genomesFile COLO320.genomes.txt
+email aikseng.ng@rdm.ox.ac.uk
+descriptionUrl hg38/capcruncher_report.html
